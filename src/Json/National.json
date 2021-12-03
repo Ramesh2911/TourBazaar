@@ -1,0 +1,172 @@
+{
+  "Places": [
+    {
+      "p_id": "01",
+      "place": "kashmir",
+      "img": "https://hikerwolf.com/wp-content/uploads/2020/03/Kashmir-4-999x800.jpg",
+      "name": [
+        {
+          "sid": "001",
+          "splace": "hotel",
+          "simg": "https://thumbs.dreamstime.com/b/hotel-room-beautiful-orange-sofa-included-43642330.jpg",
+          "sdescription": "Stone-pelting, gun fights and any other violence rarely occur in main tourist areas like Srinagar Dal Lake, Gulmarg, Pahalgam or Sonmarg. Tourists are absolutely safe in Kashmir. Jammu and Kashmir is one of the states where there is zero crime record against tourists.",
+          "sprice": "5000/-"
+        },
+        {
+          "sid": "002",
+          "splace": "cottage",
+          "simg": "https://www.collinsdictionary.com/images/full/cottage_141426904.jpg",
+          "sdescription": "Stone-pelting, gun fights and any other violence rarely occur in main tourist areas like Srinagar Dal Lake, Gulmarg, Pahalgam or Sonmarg. Tourists are absolutely safe in Kashmir. Jammu and Kashmir is one of the states where there is zero crime record against tourists.",
+          "sprice": "15000/-"
+        },
+        {
+          "sid": "003",
+          "splace": "Guest House",
+          "simg": "https://www.goaholidayhomes.com/guest-houses-in-goa/goa-clarks-amrita-guesthouse/images/gallery/1-(top-main)-121-1.jpg",
+          "sdescription": "Stone-pelting, gun fights and any other violence rarely occur in main tourist areas like Srinagar Dal Lake, Gulmarg, Pahalgam or Sonmarg. Tourists are absolutely safe in Kashmir. Jammu and Kashmir is one of the states where there is zero crime record against tourists.",
+          "sprice": "12000/-"
+        }
+      ]
+    },
+    {
+      "p_id": "02",
+      "place": "Simla",
+      "img": "https://img.veenaworld.com/wp-content/uploads/2019/07/Himachal-Pradesh.jpg?imwidth=1080",
+      "name": [
+        {
+          "sid": "004",
+          "splace": "hotel",
+          "simg": "https://cf.bstatic.com/xdata/images/hotel/270x200/238907099.jpg?k=ede02234c7e4449de3eba4887f86e03aa982df52f0c6f56a91d02d7f45683514&o=",
+          "sdescription": "One of the most stunning hill resorts, Shimla is one of the most popular hill stations in northern India. Situated at an altitude of 2,205 meters, it used to be the summer capital of British India with a well-planned architecture. ... This capital city of Himachal Pradesh is famous for The Mall, ridge, and toy train.",
+          "sprice": "18000/-"
+        },
+        {
+          "sid": "005",
+          "splace": "cottage",
+          "simg": "https://a0.muscache.com/pictures/8c150620-e6aa-4500-a621-2245a3c5a81d.jpg",
+          "sdescription": "One of the most stunning hill resorts, Shimla is one of the most popular hill stations in northern India. Situated at an altitude of 2,205 meters, it used to be the summer capital of British India with a well-planned architecture. ... This capital city of Himachal Pradesh is famous for The Mall, ridge, and toy train.",
+          "sprice": "13000/-"
+        },
+        {
+          "sid": "035",
+          "splace": "Guest House",
+          "simg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/68/6b/d0/mehdudia-guest-house.jpg?w=900&h=-1&s=1",
+          "sdescription": "One of the most stunning hill resorts, Shimla is one of the most popular hill stations in northern India. Situated at an altitude of 2,205 meters, it used to be the summer capital of British India with a well-planned architecture. ... This capital city of Himachal Pradesh is famous for The Mall, ridge, and toy train.",
+          "sprice": "15000/-"
+        }
+      ]
+    },
+    {
+      "p_id": "03",
+      "place": "Puri",
+      "img": "https://th.bing.com/th/id/R.e7981d0ece5150b34efd11f8e3c2e73c?rik=nLzNYHRdcCm26w&pid=ImgRaw&r=0",
+      "name": [
+        {
+          "sid": "006",
+          "splace": "hotel",
+          "simg": "https://images.oyoroomscdn.com/uploads/hotel_image/81539/c20db990819ef0a1.jpg",
+          "sdescription": "It is often flocked by devotees visiting the beach for a purification dip who come to Puri to pay their homage to Lord Jagannath. The beach is also renowned for the sand sculptures made by internationally known sand artist Sudarshan Patnaik. Eating Options: Many stalls and shacks can be found on the beach.",
+          "sprice": "1000/-"
+        },
+        {
+          "sid": "007",
+          "splace": "cottage",
+          "simg": "https://media-cdn.tripadvisor.com/media/photo-s/10/6a/2e/12/cottages.jpg",
+          "sdescription": "It is often flocked by devotees visiting the beach for a purification dip who come to Puri to pay their homage to Lord Jagannath. The beach is also renowned for the sand sculptures made by internationally known sand artist Sudarshan Patnaik. Eating Options: Many stalls and shacks can be found on the beach.",
+          "sprice": "3000/-"
+        },
+        {
+          "sid": "036",
+          "splace": "Guest House",
+          "simg": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/94/32/9432104_v1.jpeg",
+          "sdescription": "It is often flocked by devotees visiting the beach for a purification dip who come to Puri to pay their homage to Lord Jagannath. The beach is also renowned for the sand sculptures made by internationally known sand artist Sudarshan Patnaik. Eating Options: Many stalls and shacks can be found on the beach.",
+          "sprice": "5000/-"
+        }
+      ]
+    },
+    {
+      "p_id": "04",
+      "place": "Ladakh",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rangdum_village_grazing_fields.jpg",
+      "name": [
+        {
+          "sid": "008",
+          "splace": "Hotel",
+          "simg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288116861.jpg?k=0bd7d36b67516007fd5000be5ad12ac7e864496f0fdfde02fb87b90c70abc824&o=&hp=1",
+          "sdescription": "Contrary to the media hype, Ladakh is pretty safe and secure. Even during the Chinese incursion, the touristy areas of Leh and Ladakh were far away from where a Chinese platoon had set up camp. ... Being one of the safest parts in India, feel free to travel to Ladakh and fall head-over-heels in love with it.",
+          "sprice": "22000/-"
+        },
+        {
+          "sid": "009",
+          "splace": "Cottage",
+          "simg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d6/9a/4d/himalayan-wooden-cottages.jpg?w=900&h=-1&s=1",
+          "sdescription": "Contrary to the media hype, Ladakh is pretty safe and secure. Even during the Chinese incursion, the touristy areas of Leh and Ladakh were far away from where a Chinese platoon had set up camp. ... Being one of the safest parts in India, feel free to travel to Ladakh and fall head-over-heels in love with it.",
+          "sprice": "20000/-"
+        },
+        {
+          "sid": "010",
+          "splace": "Guest House",
+          "simg": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/38/08/3808576_v1.jpeg",
+          "sdescription": "Contrary to the media hype, Ladakh is pretty safe and secure. Even during the Chinese incursion, the touristy areas of Leh and Ladakh were far away from where a Chinese platoon had set up camp. ... Being one of the safest parts in India, feel free to travel to Ladakh and fall head-over-heels in love with it.",
+          "sprice": "30000/-"
+        }
+      ]
+    },
+    {
+      "p_id": "05",
+      "place": "Goa",
+      "img": "https://digitalnomads.world/wp-content/uploads/2021/02/goa-1024x683.jpg",
+      "name": [
+        {
+          "sid": "011",
+          "splace": "Hotel",
+          "simg": "https://r1imghtlak.mmtcdn.com/6755a230780f11e7b580025f77df004f.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+          "sdescription": "Goa is one of the safest places for women compared to other states as you have fewer cases of rape, molestation or eve-teasing in spite of so many tourists both foreign and domestic coming to Goa. Women are able to move around freely compared to in other states. Tourist women come to Goa and they are safe in Goa",
+          "sprice": "15000/-"
+        },
+        {
+          "sid": "012",
+          "splace": "Cottage",
+          "simg": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/12/leela.jpg",
+          "sdescription": "Goa is one of the safest places for women compared to other states as you have fewer cases of rape, molestation or eve-teasing in spite of so many tourists both foreign and domestic coming to Goa. Women are able to move around freely compared to in other states. Tourist women come to Goa and they are safe in Goa",
+          "sprice": "30000/-"
+        },
+        {
+          "sid": "013",
+          "splace": "Guest House",
+          "simg": "data:image/jpeg;base64,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",
+          "sdescription": "Goa is one of the safest places for women compared to other states as you have fewer cases of rape, molestation or eve-teasing in spite of so many tourists both foreign and domestic coming to Goa. Women are able to move around freely compared to in other states. ... Tourist women come to Goa and they are safe in Goa",
+          "sprice": "25000/-"
+        }
+      ]
+    },
+    {
+      "p_id": "06",
+      "place": "Gangtok",
+      "img": "https://www.holidify.com/images/cmsuploads/compressed/view-of-gangtok-from-ganesh-tok_20180226140858.jpg",
+      "name": [
+        {
+          "sid": "014",
+          "splace": "Hotel",
+          "simg": "https://m.lemontreehotels.com/getattachment/a2f001bc-2665-4b28-9e42-b0eed0778354/Banner-Two.aspx",
+          "sdescription": "The best time to visit Gangtok is during the months of late September to mid-December and from March to May. These autumn and spring-summer months experience a pleasant climate which is ideal for sightseeing.",
+          "sprice": "15000/-"
+        },
+        {
+          "sid": "015",
+          "splace": "Cottage",
+          "simg": "https://images.thrillophilia.com/image/upload/s--9LzRrpjc--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/235/871/original/1587469695_m1.jpg.jpg?1587469695",
+          "sdescription": "The best time to visit Gangtok is during the months of late September to mid-December and from March to May. These autumn and spring-summer months experience a pleasant climate which is ideal for sightseeing.",
+          "sprice": "20000/-"
+        },
+        {
+          "sid": "016",
+          "splace": "Guest House",
+          "simg": "https://ontrip.in/wp-content/uploads/2015/06/cherry-guest-house-2-840x560.jpg",
+          "sdescription": "The best time to visit Gangtok is during the months of late September to mid-December and from March to May. These autumn and spring-summer months experience a pleasant climate which is ideal for sightseeing.",
+          "sprice": "12000/-"
+        }
+      ]
+    }
+  ]
+}
