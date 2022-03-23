@@ -139,7 +139,7 @@ export default function Registation() {
             <input type="checkbox"/> 
             By creating an account you agree to our
             <Link to="/terms_page">
-            <a href="#">Terms & Privacy</a>.
+            <a>Terms & Privacy</a>.
             </Link>
           </p>
           <Button variant="primary" type="submit">
@@ -148,7 +148,7 @@ export default function Registation() {
           <p class="text-center text-muted mt-5 mb-0">
             Have already an account?
             <Link to="/login_page">
-              <a href="#!" class="fw-bold text-body">
+              <a class="fw-bold text-body">
                 <u>Login here</u>
               </a>
             </Link>
